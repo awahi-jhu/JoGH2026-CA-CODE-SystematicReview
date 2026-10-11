@@ -2,7 +2,7 @@
 
 Data, data collection forms, and code for:
 
-Wahi A, Perin J, Eilerts-Spinelli H, Prieto-Merino D, Villavicencio F, Black RE, Liu L. Consolidating cause-of-death evidence for children and adolescents through an updated systematic review and known investigator-tracing. Journal of Global Health. [year;volume:article number]. [DOI]
+Wahi A, Perin J, Eilerts-Spinelli H, Prieto-Merino D, Villavicencio F, Black RE, Liu L. Consolidating cause-of-death evidence for children and adolescents through an updated systematic review and known investigator-tracing. Journal of Global Health. 2026.
 
 ## Repository structure
 
